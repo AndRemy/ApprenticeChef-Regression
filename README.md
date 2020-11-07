@@ -11,6 +11,6 @@ revenue a client will bring to the company.
 and build the models.
 - [data/Apprentice_Chef_Dataset.xlsx](data/Apprentice_Chef_Dataset.xlsx): Excel file that contains the data required to
 do the analysis and create de final model
-- [analysis/SupervisedLearning_Analysis.ipynb](analysis/SupervisedLearning_Analysis.ipynb): Built in Jupyter Notebook, it contains the full analysis to create the model
+- [SupervisedLearning_Analysis.ipynb](SupervisedLearning_Analysis.ipynb): Built in Jupyter Notebook, it contains the full analysis to create the model
 - [Final_Model.py](Final_Model.py): A python script that creates the final model from the analysis made.
 - [model/ApprenticeChef_RegressionModel.pkl](model/ApprenticeChef_RegressionModel.pkl): Contains a series of supplementary files that were used as support during the analysis.
